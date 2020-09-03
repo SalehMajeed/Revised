@@ -1,0 +1,21 @@
+/**
+* 1-> js-fundamentals-functional-v2
+* 
+* // Bianca Gandolfo ->
+*  Ojects->
+*      -> Property Access
+*      -> Dot vs Bracket
+*      -> Destructuring
+*      -> Nesting + Loop
+*      -> Nesting + Destructuring
+*  List->
+* .forEach()->
+* .map()->
+* .filter()->
+* Functions In-Depth
+* Scope
+* Callbacks
+* Functional Utilities
+* Advanced Scope:Closure
+* Wrapping Up "JavaScript: From Fundamentals to Functional JS"
+ */
