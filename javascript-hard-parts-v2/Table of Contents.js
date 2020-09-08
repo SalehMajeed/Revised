@@ -8,5 +8,4 @@
 *  Asynchronous JavaScript
 *  Promises
 *  Classes & Prototypes
-*  Regular Expressions
 */
